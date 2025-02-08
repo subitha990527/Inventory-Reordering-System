@@ -1,0 +1,14 @@
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\bin\Debug\net8.0\Reordering System.exe
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\bin\Debug\net8.0\Reordering System.deps.json
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\bin\Debug\net8.0\Reordering System.runtimeconfig.json
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\bin\Debug\net8.0\Reordering System.dll
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\bin\Debug\net8.0\Reordering System.pdb
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug\net8.0\Reordering System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug\net8.0\Reordering System.AssemblyInfoInputs.cache
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug\net8.0\Reordering System.AssemblyInfo.cs
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug\net8.0\Reordering System.csproj.CoreCompileInputs.cache
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug\net8.0\Reordering System.dll
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug\net8.0\refint\Reordering System.dll
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug\net8.0\Reordering System.pdb
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug\net8.0\Reordering System.genruntimeconfig.cache
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug\net8.0\ref\Reordering System.dll
