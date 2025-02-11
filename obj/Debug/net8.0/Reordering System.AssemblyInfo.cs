@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reordering System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9302a7bf8e55bf3794e2ebe9210ffb420f1fbecb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reordering System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reordering System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug
 C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug\net8.0\Reordering System.pdb
 C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug\net8.0\Reordering System.genruntimeconfig.cache
 C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug\net8.0\ref\Reordering System.dll
+C:\Users\MY USER\Desktop\Inventory Reordering System\Reordering System\obj\Debug\net8.0\Reordering System.sourcelink.json
